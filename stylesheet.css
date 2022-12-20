@@ -109,6 +109,12 @@ header {
   z-index: 100;
 }
 
+#signup-modal{
+
+display: none;
+
+}
+
 .modal {
   position: absolute;
   top: 20%;
